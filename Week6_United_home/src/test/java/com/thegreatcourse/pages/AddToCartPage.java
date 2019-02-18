@@ -14,7 +14,6 @@ public class AddToCartPage extends Base {
 		Assert.assertNotNull(checkOutBtnElem, "Waiting for Add to Cart page loading - Failed");
 		return this;
 	}
-	//...
 	public AddToCartPage click_ProceedToCheckOutBtn(){		
 		myLibrary.clickButton(By.cssSelector(cssString));
 		
