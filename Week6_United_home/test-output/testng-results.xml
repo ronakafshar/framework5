@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13071" started-at="2019-02-15T01:52:40Z" finished-at="2019-02-15T01:52:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13071" started-at="2019-02-15T01:52:40Z" finished-at="2019-02-15T01:52:53Z">
+      <class name="com.Week9.tests.CountLinksAndBroken.BrokenLinks">
+        <test-method status="PASS" signature="beforeAllTestStart()[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b]" name="beforeAllTestStart" is-config="true" duration-ms="18" started-at="2019-02-14T17:52:40Z" finished-at="2019-02-14T17:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method status="PASS" signature="beforeEachTestStart()[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b]" name="beforeEachTestStart" is-config="true" duration-ms="4010" started-at="2019-02-14T17:52:40Z" finished-at="2019-02-14T17:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method status="PASS" signature="testinglinksingoogle()[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b]" name="testinglinksingoogle" duration-ms="6317" started-at="2019-02-14T17:52:44Z" finished-at="2019-02-14T17:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinglinksingoogle -->
+        <test-method status="PASS" signature="afterEachTestEnd(org.testng.ITestResult)[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b]" name="afterEachTestEnd" is-config="true" duration-ms="2707" started-at="2019-02-14T17:52:51Z" finished-at="2019-02-14T17:52:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testinglinksingoogle status=SUCCESS method=BrokenLinks.testinglinksingoogle()[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method status="PASS" signature="afterAllTestCompleted()[pri:0, instance:com.Week9.tests.CountLinksAndBroken.BrokenLinks@5649fd9b]" name="afterAllTestCompleted" is-config="true" duration-ms="1" started-at="2019-02-14T17:52:53Z" finished-at="2019-02-14T17:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCompleted -->
+      </class> <!-- com.Week9.tests.CountLinksAndBroken.BrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
